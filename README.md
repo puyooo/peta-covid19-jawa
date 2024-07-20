@@ -6,6 +6,6 @@ Peta menggunakan library leafletjs.com untuk membuat peta pulau
 
 Data covid19 diambil dari API https://data.covid19.go.id/public/api/prov.json
 
-CodeIgniter4
-mysql
+CodeIgniter4 <br />
+mysql <br />
 leafletjs
