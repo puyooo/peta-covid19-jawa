@@ -8,4 +8,5 @@ Data covid19 diambil dari API https://data.covid19.go.id/public/api/prov.json
 
 CodeIgniter4 <br />
 mysql <br />
+jQuery 3.5.1 <br />
 leafletjs
